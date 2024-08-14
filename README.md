@@ -6,7 +6,7 @@
 
 💞️ I'm looking to collaborate on projects that involve creating dynamic web applications, improving website accessibility, or exploring new technologies like WebAssembly.
 
-📫 How to reach me: You can find me on GitHub  or reach out to me via email (kavanar07@email.com).
+📫 How to reach me: You can find me on GitHub( https://github.com/Kavana-tech) or reach out to me via email (kavanar07@email.com).
 
 😄 Pronouns: she/her
 
