@@ -10,5 +10,5 @@
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I enjoy solving coding challenges on platforms like HackerRank in my free time, and I'm passionate about making the web a more inclusive and accessible space for everyone!
+⚡ Fun fact: I enjoy solving coding challenges on platforms like HackerRank ,Leetcode in my free time, and I'm passionate about making the web a more inclusive and accessible space for everyone!
 
